@@ -1,0 +1,26 @@
+{
+    "cCC-bg-Main":"cCC-bg-Dark",
+    "home-selected-Main":"home-selected-Dark",
+
+
+    "_comment": "-------------------------------Header Section---------------------------------------",
+
+    "uCC-Border-Main":"uCC-Border-Dark",
+
+    "_comment": "-------------------------------Home Section---------------------------------------",
+
+    "cCC-bg-main-With-Opacity-80" : "cCC-bg-Dark-With-Opacity-80",
+    "cCC-bg-main-With-Opacity-20":"cCC-bg-Dark-With-Opacity-20",
+    "iCC-Mail-Icon-Green":"iCC-Mail-Icon-Dark",
+    "iCC-Contact-Icon-Green":"iCC-Contact-Icon-Dark",
+    "iCC-suitcase-Icon-Green":"iCC-suitcase-Icon-Dark",
+    "iCC-CV-Icon-Green":"iCC-CV-Icon-Dark",
+        
+    "_comment": "-------------------------------Jobs Section---------------------------------------",
+
+    "CC-th-Main":"CC-th-Dark",
+    "CC-Pagination-Main":"CC-Pagination-Dark"
+
+
+
+}
